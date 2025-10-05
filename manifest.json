@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Virtual Fitting Room",
+  "version": "0.0.1",
+  "description": "Browser extension for virtually trying on clothes and visualizing outfits while shopping online.",
+  "default_popup": "popout.html",
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
